@@ -1,0 +1,115 @@
+{
+  "Usuarios": {
+    "10736839220": {
+      "Genero": "Por definir0",
+      "_id": "10736839220",
+      "direcciones": {
+        "dir1": "Calle 10a",
+        "dir2": "Calle 10b",
+        "dir3": "Calle 10c"
+      },
+      "nombre": "Camilo Castro0",
+      "password": 123456,
+      "telefono": "31420644310"
+    },
+    "10736839221": {
+      "Genero": "Por definir1",
+      "_id": "10736839221",
+      "direcciones": {
+        "dir1": "Calle 11a",
+        "dir2": "Calle 11b",
+        "dir3": "Calle 11c"
+      },
+      "nombre": "Camilo Castro1",
+      "telefono": "31420644311"
+    },
+    "10736839222": {
+      "Genero": "Por definir2",
+      "_id": "10736839222",
+      "direcciones": {
+        "dir1": "Calle 12a",
+        "dir2": "Calle 12b",
+        "dir3": "Calle 12c"
+      },
+      "nombre": "Camilo Castro2",
+      "telefono": "31420644312"
+    },
+    "10736839223": {
+      "Genero": "Por definir3",
+      "_id": "10736839223",
+      "direcciones": {
+        "dir1": "Calle 13a",
+        "dir2": "Calle 13b",
+        "dir3": "Calle 13c"
+      },
+      "nombre": "Camilo Castro3",
+      "telefono": "31420644313"
+    },
+    "10736839224": {
+      "Genero": "Por definir4",
+      "_id": "10736839224",
+      "direcciones": {
+        "dir1": "Calle 14a",
+        "dir2": "Calle 14b",
+        "dir3": "Calle 14c"
+      },
+      "nombre": "Camilo Castro4",
+      "telefono": "31420644314"
+    },
+    "10736839225": {
+      "Genero": "Por definir5",
+      "_id": "10736839225",
+      "direcciones": {
+        "dir1": "Calle 15a",
+        "dir2": "Calle 15b",
+        "dir3": "Calle 15c"
+      },
+      "nombre": "Camilo Castro5",
+      "telefono": "31420644315"
+    },
+    "10736839226": {
+      "Genero": "Por definir6",
+      "_id": "10736839226",
+      "direcciones": {
+        "dir1": "Calle 16a",
+        "dir2": "Calle 16b",
+        "dir3": "Calle 16c"
+      },
+      "nombre": "Camilo Castro6",
+      "telefono": "31420644316"
+    },
+    "10736839227": {
+      "Genero": "Por definir7",
+      "_id": "10736839227",
+      "direcciones": {
+        "dir1": "Calle 17a",
+        "dir2": "Calle 17b",
+        "dir3": "Calle 17c"
+      },
+      "nombre": "Camilo Castro7",
+      "telefono": "31420644317"
+    },
+    "10736839228": {
+      "Genero": "Por definir8",
+      "_id": "10736839228",
+      "direcciones": {
+        "dir1": "Calle 18a",
+        "dir2": "Calle 18b",
+        "dir3": "Calle 18c"
+      },
+      "nombre": "Camilo Castro8",
+      "telefono": "31420644318"
+    },
+    "10736839229": {
+      "Genero": "Por definir9",
+      "_id": "10736839229",
+      "direcciones": {
+        "dir1": "Calle 19a",
+        "dir2": "Calle 19b",
+        "dir3": "Calle 19c"
+      },
+      "nombre": "Camilo Castro9",
+      "telefono": "31420644319"
+    }
+  }
+}
